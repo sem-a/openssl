@@ -1,1 +1,1 @@
-localStorage.setItem('URL', )
+localStorage.setItem('URL', "https://disk.yandex.ru/d/WDoW0BwYq317UA")
